@@ -1,5 +1,11 @@
 # 💫 About Me:
-🌐Front-End (html - css - tailwind ) <br>🌐Back-End Developer ( PHP-mysql ) <br>🌐Programming (C# - java - python )
+I’m Ahmad, a 21-year-old Information Technology student.
+
+**EmberRenewed** means a spark that didn’t fade — it returned stronger.  
+It reflects resilience, growth, and rebuilding after challenges.
+
+Always learning. Always improving.
+
 
 
 ## 🌐 Socials:
