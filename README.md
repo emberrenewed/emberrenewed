@@ -1,5 +1,5 @@
 ## About me :
-<img src="https://media.giphy.com/media/G7iGNzr3VBING/giphy.gif" width="80" height="80" />
+
 
 
 
@@ -11,7 +11,7 @@ It reflects resilience, growth, and rebuilding after challenges.
 Always learning. Always improving.
 
 
-![Always Improving](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/830733842624020500) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emberrenewed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brokurdish)
