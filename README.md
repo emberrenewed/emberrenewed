@@ -1,7 +1,8 @@
 ## About me :
 
 ## welcome 
-![Coding](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" />
+
 
 I’m Ahmad, a 21-year-old Information Technology student.
 
