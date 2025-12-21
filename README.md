@@ -1,6 +1,6 @@
-## 
-<img src="https://media.giphy.com/media/G7iGNzr3VBING/giphy.gif" width="40" height="40" />
-About Me
+## About me :
+<img src="https://media.giphy.com/media/G7iGNzr3VBING/giphy.gif" width="80" height="80" />
+
 
 
 I’m Ahmad, a 21-year-old Information Technology student.
