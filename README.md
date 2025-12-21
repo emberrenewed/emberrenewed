@@ -6,8 +6,9 @@ It reflects resilience, growth, and rebuilding after challenges.
 
 Always learning. Always improving.
 
-
-
+<hr>
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/13rQ7rrTrvZXlm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm">via GIPHY</a></p>
+<hr>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/830733842624020500) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emberrenewed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brokurdish) [![Telegram](https://img.shields.io/badge/Telegram-%023E8A.svg?logo=Telegram&logoColor=white)](https://t.me/emberrenewed) 
 
