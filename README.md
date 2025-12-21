@@ -10,7 +10,10 @@ Always learning. Always improving.
 ![Always Improving](https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/830733842624020500) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emberrenewed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brokurdish) [![Telegram](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/emberrenewed)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/830733842624020500) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emberrenewed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@brokurdish) <a href="https://t.me/emberrenewed">
+  <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="40" height="40" />
+</a>
+
 
 
 # 💻 Tech Stack:
