@@ -2,16 +2,6 @@
 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" />
 
 
-# about me
-
-I’m Ahmad, a 21-year-old Information Technology student.
-
-**EmberRenewed** means a spark that didn’t fade — it returned stronger.  
-It reflects resilience, growth, and rebuilding after challenges.
-
-Always learning. Always improving.
-
-
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 
 ## 🌐 Socials:
