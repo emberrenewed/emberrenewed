@@ -88,16 +88,13 @@ const AhmadMuhammad = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emberrenewed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Ahmad Muhammad GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=emberrenewed&theme=github-dark-blue&hide_border=true" alt="Ahmad Muhammad GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emberrenewed&theme=github_dark" alt="Ahmad Muhammad GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emberrenewed&theme=github_dark&utcOffset=3" alt="Ahmad Muhammad productive coding time" />
 </p>
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emberrenewed&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=emberrenewed&theme=react-dark&hide_border=true&area=true&custom_title=Ahmad%20Muhammad%20Code%20Activity" alt="Ahmad Muhammad contribution graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emberrenewed&theme=github_dark" alt="Ahmad Muhammad repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emberrenewed&theme=github_dark" alt="Ahmad Muhammad commits by language" />
 </p>
 
 <p align="center">
