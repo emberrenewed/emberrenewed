@@ -1,44 +1,116 @@
-# 👋 Hi, I'm Ember Renewed
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Creative+Builder;Always+Learning+New+Tech" alt="Typing animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,35:0ea5e9,70:7c3aed,100:f97316&text=Ahmad%20Muhammad&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Coder%20%7C%20API%20Developer%20%7C%20AI%20Prompt%20Engineer&descAlignY=58&descSize=17" alt="Ahmad Muhammad profile banner" />
 </p>
 
 <p align="center">
-  <a href="https://committers.top/kurdistan/emberrenewed"><img src="https://user-badge.committers.top/kurdistan/emberrenewed.svg" alt="Committers badge" /></a>
+  <a href="https://github.com/emberrenewed">
+    <img src="https://komarev.com/ghpvc/?username=emberrenewed&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/emberrenewed?tab=followers">
+    <img src="https://img.shields.io/github/followers/emberrenewed?label=Followers&style=for-the-badge&color=7c3aed&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/emberrenewed?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <a href="https://github.com/emberrenewed/README/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20README%20Repo-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Download README repository" />
+  </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/emberrenewed">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=25&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=980&lines=Full+Stack+Developer;Laravel+%2B+React+Builder;REST+API+%2B+Database+Developer;Docker+%2B+Linux+Workflow;AI+Prompt+Engineering" alt="Animated full stack developer typing text" />
+  </a>
+</p>
 
-## 🚀 About Me
-- 💡 Passionate about building clean, useful, and beautiful software
-- ⚡ Focused on performance, UX, and maintainable code
-- 🌍 Constantly improving and exploring modern technologies
-
-## 🛠️ My Skills
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-
----
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:007CF0&height=120&section=footer" alt="footer animation" />
+  I am <b>Ahmad Muhammad</b>, a full stack coder building clean interfaces, secure APIs, database-driven systems, and practical AI workflows. I like code that looks sharp, runs fast, and stays maintainable.
+</p>
+
+<p align="center">
+  <a href="https://github.com/emberrenewed?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20My%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Browse my repositories" />
+  </a>
+  <a href="https://github.com/emberrenewed/README/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20This%20Repository-0ea5e9?style=for-the-badge&logo=git&logoColor=white" alt="Download this repository" />
+  </a>
+  <a href="https://github.com/emberrenewed">
+    <img src="https://img.shields.io/badge/Open%20My%20Profile-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Open my GitHub profile" />
+  </a>
+</p>
+
+<h2 align="center">Animated Skills</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,cs,java,py,mysql,postgres,laravel,docker,postman,react,go,linux&perline=9" alt="HTML CSS JavaScript PHP Tailwind Bootstrap C Sharp Java Python MySQL PostgreSQL Laravel Docker Postman React Go Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Development-111827?style=for-the-badge&logo=fastapi&logoColor=38bdf8" alt="API Development" />
+  <img src="https://img.shields.io/badge/AI%20Prompt%20Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Laravel%20Sanctum-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
+  <img src="https://img.shields.io/badge/MySQLi-00618a?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQLi" />
+</p>
+
+<h2 align="center">Skills Matrix</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center">HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center">PHP, Laravel, Laravel Sanctum, API, Golang, C#, Basic Java, Python</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td align="center">MySQLi, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td align="center">Docker, Postman, Linux, AI Prompt Engineering</td>
+  </tr>
+</table>
+
+<h2 align="center">GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emberrenewed&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Ahmad Muhammad GitHub trophies" />
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emberrenewed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Ahmad Muhammad GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=emberrenewed&theme=tokyonight&hide_border=true" alt="Ahmad Muhammad GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emberrenewed&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=emberrenewed&theme=react-dark&hide_border=true&area=true&custom_title=Ahmad%20Muhammad%20Contribution%20Graph" alt="Ahmad Muhammad contribution graph" />
+</p>
+
+<h2 align="center">Download My Code</h2>
+
+<p align="center">
+  <a href="https://github.com/emberrenewed?tab=repositories">
+    <img src="https://img.shields.io/badge/All%20Repositories-Download%20Source%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories download source code" />
+  </a>
+  <a href="https://github.com/emberrenewed/README/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/README%20Repository-ZIP%20Download-f97316?style=for-the-badge&logo=github&logoColor=white" alt="README repository ZIP download" />
+  </a>
+</p>
+
+<p align="center">
+  Open any repository, press <b>Code</b>, then choose <b>Download ZIP</b> to download that project source.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,35:0ea5e9,70:7c3aed,100:f97316" alt="Footer wave" />
 </p>
