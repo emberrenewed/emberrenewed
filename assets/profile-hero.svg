@@ -1,0 +1,55 @@
+<svg width="1440" height="420" viewBox="0 0 1440 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#134E4A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="300" x2="1260" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="32"/>
+    </filter>
+  </defs>
+
+  <rect width="1440" height="420" rx="28" fill="url(#bg)"/>
+
+  <circle cx="180" cy="95" r="120" fill="#14B8A6" fill-opacity="0.18" filter="url(#blur)">
+    <animate attributeName="r" values="105;130;105" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1245" cy="335" r="145" fill="#5EEAD4" fill-opacity="0.12" filter="url(#blur)">
+    <animate attributeName="r" values="130;155;130" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M175 297C312 216 440 275 577 210C729 138 842 182 982 127C1095 83 1176 104 1264 132"
+        stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 16">
+    <animate attributeName="stroke-dashoffset" values="0;-136" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <circle cx="175" cy="297" r="13" fill="#99F6E4"/>
+  <circle cx="577" cy="210" r="13" fill="#99F6E4"/>
+  <circle cx="982" cy="127" r="13" fill="#CCFBF1"/>
+  <circle cx="1264" cy="132" r="13" fill="#CCFBF1"/>
+
+  <g>
+    <circle cx="175" cy="297" r="28" stroke="#99F6E4" stroke-opacity="0.7" stroke-width="3">
+      <animate attributeName="r" values="18;34;18" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="577" cy="210" r="28" stroke="#99F6E4" stroke-opacity="0.7" stroke-width="3">
+      <animate attributeName="r" values="18;34;18" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="2.8s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="982" cy="127" r="28" stroke="#CCFBF1" stroke-opacity="0.7" stroke-width="3">
+      <animate attributeName="r" values="18;34;18" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="2.8s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="382" y="92" width="676" height="236" rx="28" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.14"/>
+  <text x="720" y="176" fill="white" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">Ahmad Muhammad</text>
+  <text x="720" y="224" fill="#99F6E4" font-size="28" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Backend • Mobile • Product Engineering</text>
+  <text x="720" y="268" fill="white" fill-opacity="0.86" font-size="22" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Laravel • Flutter • Supabase • Go</text>
+</svg>
